@@ -9,6 +9,15 @@ body {
     height: 100%;
 }
 
+.bold {
+    font-weight:bold;
+}
+
+.whosWho {
+    font-size:0.9em;
+    color:grey;
+}
+
 .img-centered {
     margin: 0 auto;
 }
