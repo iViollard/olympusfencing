@@ -51,7 +51,7 @@ body {
 }
 
 a {
-    color: #00adef;
+    color: #337c03;
     -webkit-transition: all .5s;
     -moz-transition: all .5s;
     transition: all .5s;
@@ -73,7 +73,7 @@ p.lead {
     font-family: Raleway,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 24px;
     font-weight: 600;
-    color:#0084b8;
+    color:#337c03;
 }
 
 h1,
@@ -85,7 +85,7 @@ h6 {
     text-transform: uppercase;
     font-family: Raleway,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 600;
-    color:#0084b8;
+    color:#337c03;
 }
 
 .pricing h1, .pricing h2, .pricing h3, .pricing h4, .pricing h5, .pricing h6, .footer h1, .footer h2, .footer h3, .footer h4, .footer h5, .footer h6 {
@@ -93,7 +93,7 @@ h6 {
 } 
 
 .pricing-item h1, .pricing-item h2, .pricing-item h3, .pricing-item h4, .pricing-item h5, .pricing-item h6 {
-    color:#0084b8;
+    color:#337c03;
 }
 
 @media(min-width:481px) {
@@ -123,7 +123,7 @@ hr.right {
 }
 
 hr.colored {
-    border-color: #00adef;
+    border-color: #337c03;
 }
 
 @media(min-width:768px) {
@@ -142,7 +142,7 @@ hr.colored {
 }
 
 .text-primary {
-    color: #00adef;
+    color: #337c03;
 }
 
 .navbar-default .navbar-nav>.active>a,
@@ -152,12 +152,12 @@ hr.colored {
 .navbar-inverse .navbar-nav>.active>a:hover,
 .navbar-inverse .navbar-nav>.active>a:focus {
     border-radius: 0;
-    color: #00adef;
+    color: #337c03;
     background-color: #fff;
 }
 
 .navbar-default {
-    background-color: #00adef;
+    background-color: #337c03;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
@@ -175,7 +175,7 @@ hr.colored {
 }
 
 .navbar-inverse {
-    background-color: #00adef;
+    background-color: #337c03;
 }
 
 .navbar-default,
@@ -504,7 +504,7 @@ aside.cta-quote span.quote {
     font-size: 30px!important;
     line-height: 50px;
     color: #fff!important;
-    background-color: #00adef!important;
+    background-color: #337c03!important;
     -webkit-transition: all .5s;
     -moz-transition: all .5s;
     transition: all .5s;
@@ -598,7 +598,7 @@ aside.cta-quote span.quote {
     font-size: 30px!important;
     line-height: 50px;
     color: #fff!important;
-    background-color: #00adef!important;
+    background-color: #337c03!important;
     -webkit-transition: all .5s;
     -moz-transition: all .5s;
     transition: all .5s;
@@ -716,7 +716,7 @@ aside.cta-quote span.quote {
     font-size: 30px!important;
     line-height: 70px;
     color: #fff!important;
-    background-color: #00adef!important;
+    background-color: #337c03!important;
     -webkit-transition: all .5s;
     -moz-transition: all .5s;
     transition: all .5s;
@@ -971,7 +971,7 @@ aside.cta-quote span.quote {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #00adef;
+    color: #337c03;
 }
 
 form .row:first-child .floating-label-form-group {
@@ -1034,7 +1034,7 @@ footer.footer .copyright p.small {
 .btn-outline-light:hover,
 .btn-outline-light:focus {
     outline: 0;
-    color: #00adef;
+    color: #337c03;
     background: #fff;
 }
 
@@ -1049,10 +1049,10 @@ footer.footer .copyright p.small {
 
 .btn-outline-dark:hover,
 .btn-outline-dark:focus {
-    border-color: #00adef;
+    border-color: #337c03;
     outline: 0;
     color: #fff;
-    background: #00adef;
+    background: #337c03;
 }
 
 .btn {
@@ -1083,7 +1083,7 @@ footer.footer .copyright p.small {
 
 .btn-full-width:hover {
     color: #fff;
-    background-color: #00adef;
+    background-color: #337c03;
 }
 
 .btn-full-width:focus {
