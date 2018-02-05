@@ -155,7 +155,9 @@ hr.colored {
 }
 
 .text-primary {
-    color: #337c03;
+    color: #d40101;
+    font-style: oblique;
+    font-weight: 400;
 }
 
 .navbar-default .navbar-nav>.active>a,
